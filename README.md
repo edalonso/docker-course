@@ -13,7 +13,7 @@ https://docs.docker.com/engine/reference/commandline/network/
 ### Envío de datos entre contenedores
 https://docs.docker.com/network/#network-drivers
 ### Otras formas de comunicación
-* https://docs.docker.com/network/network-tutorial-host/
+* host: https://docs.docker.com/network/network-tutorial-host/
 * overlay: https://docs.docker.com/network/network-tutorial-overlay/
 * macvlan: https://docs.docker.com/network/network-tutorial-macvlan/
 ### Buenas prácticas
